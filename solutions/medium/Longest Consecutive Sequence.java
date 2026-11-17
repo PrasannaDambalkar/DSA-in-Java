@@ -3,16 +3,8 @@
             // Language: Java
             // Link: https://leetcode.com/problems/longest-consecutive-sequence/
 
-        for (int num : set) {
-
-            if (!set.contains(num-1)) {
-
-                int count = 1;
-                int curr = num;
 
                 while (set.contains(curr+1)) {
-
-        int ans = 0;
                     curr++;
                     count++;
                 }
@@ -21,5 +13,13 @@
 
             }
 
-        }
+                int curr = num;
+                int count = 1;
 
+            if (!set.contains(num-1)) {
+
+        for (int num : set) {
+
+        int ans = 0;
+
+        }
