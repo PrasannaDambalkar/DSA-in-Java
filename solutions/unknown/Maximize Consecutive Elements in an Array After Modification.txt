@@ -1,0 +1,5 @@
+// Title: Maximize Consecutive Elements in an Array After Modification
+            // Difficulty: Unknown
+            // Language: undefined
+            // Link: https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/
+
